@@ -1,2 +1,2 @@
 # juice-sales
-its an app which used to make the work between the sales and the distrubute and is made specific company
+the app specialized for sales distribution designed to facilitate collaboration between sales teams and distributors within a specific company.
