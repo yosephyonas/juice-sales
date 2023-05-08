@@ -3,7 +3,7 @@
 the app specialized for sales distribution designed to facilitate collaboration between sales teams and distributors within a specific company.
 
 
-![the login page with admin page login](https://user-images.githubusercontent.com/101545038/236960719-fdca55c5-ea9e-4342-a3b0-3b0bdb8c1dd7.jpg){:height="100px" width="auto"}
+<img src="https://user-images.githubusercontent.com/101545038/236960719-fdca55c5-ea9e-4342-a3b0-3b0bdb8c1dd7.jpg" alt="your-image-description" width="200">
 
 
 ()! [ to choose different activities](https://user-images.githubusercontent.com/101545038/236676723-4d5ab5e6-cec6-4cec-9894-8b101f6b5547.jpg)
